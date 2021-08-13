@@ -1,0 +1,27 @@
+div { text-align: center }
+.title{
+  color:rgb(3, 3, 63);
+}
+input{
+  margin:5px 20px;
+  padding: 5px;
+  border: none;
+  border-bottom: 2px solid rgb(3, 3, 63);
+  border-left: 2px solid rgb(3, 3, 63);
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  color:rgb(3, 3, 63);
+}
+input:hover{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+}
+button{
+  background-color: rgb(3, 3, 63);
+  margin: 10px;
+  padding:9px;
+  border-radius: 20px;
+  color:white
+}
+button:hover{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+}
